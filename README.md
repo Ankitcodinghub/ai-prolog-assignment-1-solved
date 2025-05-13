@@ -1,0 +1,1 @@
+# ai-prolog-assignment-1-solved
